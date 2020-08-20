@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jstl", "jstl.vcxproj", "{55C1D3B7-E91D-4711-A1AD-191F76D06D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C1D3B7-E91D-4711-A1AD-191F76D06D0C}.Debug|x64.ActiveCfg = Debug|x64
+		{55C1D3B7-E91D-4711-A1AD-191F76D06D0C}.Debug|x64.Build.0 = Debug|x64
+		{55C1D3B7-E91D-4711-A1AD-191F76D06D0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{55C1D3B7-E91D-4711-A1AD-191F76D06D0C}.Debug|x86.Build.0 = Debug|Win32
+		{55C1D3B7-E91D-4711-A1AD-191F76D06D0C}.Release|x64.ActiveCfg = Release|x64
+		{55C1D3B7-E91D-4711-A1AD-191F76D06D0C}.Release|x64.Build.0 = Release|x64
+		{55C1D3B7-E91D-4711-A1AD-191F76D06D0C}.Release|x86.ActiveCfg = Release|Win32
+		{55C1D3B7-E91D-4711-A1AD-191F76D06D0C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5172D1C6-114C-455A-BCE0-6BDB03B78699}
+	EndGlobalSection
+EndGlobal
